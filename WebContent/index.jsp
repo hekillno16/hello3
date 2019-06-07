@@ -17,6 +17,7 @@
 
 </head>
 <body>
+	<h1>Others Change</h1>
 <jsp:useBean id="obj" class="com.marlabs.demo.Test" />
 <h4>
 <%
